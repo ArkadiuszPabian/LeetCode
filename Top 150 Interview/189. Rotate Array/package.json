@@ -1,0 +1,15 @@
+{
+  "name": "189.-rotate-array",
+  "version": "1.0.0",
+  "description": "Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
