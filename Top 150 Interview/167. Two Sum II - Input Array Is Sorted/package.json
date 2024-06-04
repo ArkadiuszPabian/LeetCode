@@ -1,0 +1,15 @@
+{
+  "name": "167.-two-sum-ii---input-array-is-sorted",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
